@@ -4,7 +4,7 @@
 
 <a href="https://twitter.com/enzogla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AtomicLemon/2d05d626-bbe3-4168-a1fa-4343c9f269a8.png" /></a>
+<a href="https://wakatime.com"><img width="200" height="200" src="https://wakatime.com/share/@AtomicLemon/2d05d626-bbe3-4168-a1fa-4343c9f269a8.png" /></a>
 
 <!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> /
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> /
