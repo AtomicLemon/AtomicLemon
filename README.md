@@ -1,10 +1,6 @@
-###
+### Profile Information
 
 ![](https://komarev.com/ghpvc/?username=AtomicLemon)
-
-<a href="https://twitter.com/enzogla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-
-<a href="https://wakatime.com"><img width="400" height="300" src="https://wakatime.com/share/@nnzo/2d05d626-bbe3-4168-a1fa-4343c9f269a8.png" /></a>
 
 ### Languages
 
