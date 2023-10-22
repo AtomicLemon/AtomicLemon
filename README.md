@@ -1,6 +1,7 @@
 ### Profile Information
 
 ![](https://komarev.com/ghpvc/?username=AtomicLemon)
+[![wakatime](https://wakatime.com/badge/user/958840c2-e506-4043-83d8-e7aa8c3f8dbe.svg)](https://wakatime.com/@958840c2-e506-4043-83d8-e7aa8c3f8dbe)
 
 ### Languages
 
